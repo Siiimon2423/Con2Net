@@ -2,7 +2,7 @@
 
 ### Introduction
 This repository is for the paper:
-'Con2Net: A Semi-Supervised Model Based on Consistency Regularization and Contrastive Learning for Metallographic Image Segmentation'. 
+'Semi-supervised Metallographic Image Segmentation via Consistency Regularization and Contrastive Learning'. 
 
 ### Requirements
 * numpy==1.21.5
